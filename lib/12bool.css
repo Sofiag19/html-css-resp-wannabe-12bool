@@ -20,7 +20,7 @@ rilasciato il 26/09/2019 */
 @media all and (max-width: 768px) {
 
     .row {
-      width: 80%;
+      width: 100%;
     }
 
     /* COL */
@@ -190,7 +190,7 @@ rilasciato il 26/09/2019 */
 @media all and (min-width: 992px) {
 
     .row {
-      width: 100%;
+      width: 80%;
     }
 
     /* COL */
