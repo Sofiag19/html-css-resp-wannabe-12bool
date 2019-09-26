@@ -1,5 +1,6 @@
 .container {
   width: 992px;
+  margin: 0 auto;
 }
 
 .row {
@@ -43,12 +44,12 @@
   text-align: center;
 }
 
-/* #why .row > .first,
+#why .row > .first,
 #why .row > .second,
 #why .row > .third {
-  width: 100%;
+  /* width: 100%; */
   margin-top: 80px;
-} */
+}
 
 #why .row img {
   background-color:#428bca;
