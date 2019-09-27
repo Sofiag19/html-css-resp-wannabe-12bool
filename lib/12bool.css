@@ -3,6 +3,7 @@ rilasciato il 26/09/2019 */
 
 /* regole generali */
 .row {
+  width: 992px;
   max-width: 100%;
   margin: 0 auto;
 }
